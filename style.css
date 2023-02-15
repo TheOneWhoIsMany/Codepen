@@ -1,0 +1,14 @@
+table, th, td{border:1px solid white}
+body{background-image: Url(https://pbs.twimg.com/ext_tw_video_thumb/1615829680925605888/pu/img/LE_HBqXtnkXCRAeP?format=jpg&name=large);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size: cover;}
+#t2{color:#ff66ff;
+background-color:#000000;}
+table{color:white;
+background-color:#000000}
+h3{color:#0099ff;
+background-color:#000000;
+width:90px}
+.check{color:white;}
+.Will{color:#ff66ff}
